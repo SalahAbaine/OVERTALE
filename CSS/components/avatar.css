@@ -1,0 +1,25 @@
+.avatar {
+	width: 150px;
+	height: auto;
+	transition: 0.3s ease;
+}
+
+p1 {
+transition: 0.3s ease;
+}
+
+#start {
+	text-decoration: none;
+	font-size: 30px;
+	transition: 0.4s ease;
+	color: white;
+}
+
+#start:hover {font-size: 40px;
+		color:#f9ff11;
+}
+
+.avatar:hover { width: 200px; }
+.avatar:hover .avatarid{color:#f9ff11;}
+.avatarid:hover {color:#f9ff11;}
+
